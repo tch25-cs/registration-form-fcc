@@ -1,4 +1,4 @@
-# registration-form-fcc
+# Registration Form
 A responsive HTML/CSS page built for the freeCodeCamp curriculum.
 Intended to share on Cybersecurity/IT Portfolio
 
